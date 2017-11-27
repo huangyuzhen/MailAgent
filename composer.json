@@ -2,12 +2,6 @@
     "name": "huangyuzhen/MailAgent",
     "version": "1.0.0",
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/huangyuzhen/MailAgent"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "MailAgent\\": "src/"
