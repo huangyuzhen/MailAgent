@@ -1,0 +1,14 @@
+{
+    "name": "mailagent",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [{
+        "name": "huangyuzhen",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "MailAgent\\": "src/"
+        }
+    }
+}

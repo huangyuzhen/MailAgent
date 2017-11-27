@@ -1,0 +1,12 @@
+Received: from localhost ([127.0.0.1]) by mailsender with webmail smtp v4.5;
+Date: {{$nowDate}}
+From: {{$from}}
+To: {{$to}}
+Subject: {{$subject}}
+X-Priority: 3
+X-Mailer: webmail server verion 4.5 build 201701
+Message-ID: <{{$messageId}}>
+Content-Type: multipart/alternative;
+	boundary="{{$boundary}}"
+MIME-Version: 1.0
+

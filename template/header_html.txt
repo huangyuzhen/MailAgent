@@ -1,0 +1,12 @@
+Received: from localhost ([127.0.0.1]) by mxsender with webmail smtp v4.5;
+Date: {{$nowDate}}
+From: {{$from}}
+To: {{$to}}
+Subject: {{$subject}}
+X-Priority: 3
+X-Mailer: mxsender server verion 4.5 build 201711
+MIME-Version: 1.0
+Message-ID: <{{$messageId}}>
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
